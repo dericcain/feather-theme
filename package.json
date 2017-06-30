@@ -1,0 +1,22 @@
+{
+    "name": "feathers",
+    "displayName": "Feathers",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "dericcain",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feathers",
+                "uiTheme": "vs",
+                "path": "./themes/Feathers-color-theme.json"
+            }
+        ]
+    }
+}
