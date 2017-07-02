@@ -1,6 +1,6 @@
 {
-    "name": "feathers",
-    "displayName": "Feathers",
+    "name": "feather",
+    "displayName": "Feather",
     "description": "",
     "version": "0.0.1",
     "publisher": "dericcain",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Feathers",
+                "label": "Feather",
                 "uiTheme": "vs",
-                "path": "./themes/Feathers-color-theme.json"
+                "path": "./themes/Feather-color-theme.json"
             }
         ]
     }
