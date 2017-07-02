@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "feathers"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Feather Theme
+A light, elegant theme for Visual Studio code.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+![Feather - Visual Studio Theme](screenshot.png?raw=true)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installing
+You can install the theme from the Visual Studio Code Marketplace.
 
-**Enjoy!**
+## Find something that doesn't look right?
+Let me know if you see something that is out of place and I will fix it. I mainly use the editor for Javascript, so other languages may have splipped through the cracks and need updating.
