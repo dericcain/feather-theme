@@ -2,18 +2,18 @@
     "name": "feather",
     "displayName": "Feather",
     "description": "A light, elegant theme for Visual Studio code.",
-    "version": "0.0.2",
+    "version": "0.2.0",
     "publisher": "dericcain",
     "license": "MIT",
     "galleryBanner": {
-		"color": "#f1f1f1",
-		"theme": "light"
-	},
+        "color": "#f1f1f1",
+        "theme": "light"
+    },
     "engines": {
-       "vscode": "^1.12.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
-    "Themes"
+        "Themes"
     ],
     "keywords": [
         "light",
