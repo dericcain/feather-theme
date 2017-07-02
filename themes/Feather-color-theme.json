@@ -118,6 +118,7 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#a15ebb"
 			}
 		},
@@ -186,7 +187,7 @@
     "badge.background": "#FF7B2E",
     "button.background": "#FF7B2E",
 		"button.foreground": "#FFFFFF",
-    "debugToolBar.background": "#395063",
+    "debugToolBar.background": "#EEEEEE",
     "dropdown.background": "#EEEEEE",
     "diffEditor.insertedTextBackground": "#00809B33",
     "dropdown.border": "#DDDDDD",

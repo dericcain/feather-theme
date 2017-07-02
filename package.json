@@ -2,7 +2,7 @@
     "name": "feather",
     "displayName": "Feather",
     "description": "A light, elegant theme for Visual Studio code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "dericcain",
     "license": "MIT",
     "galleryBanner": {
@@ -18,6 +18,7 @@
     "keywords": [
         "light",
         "theme",
+        "feather",
         "elegant",
         "sublime"
     ],
