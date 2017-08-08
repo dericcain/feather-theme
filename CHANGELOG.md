@@ -4,6 +4,11 @@ All notable changes to the "feathers" theme will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.4.0]
+### Changed
+- Made the whitespace characters lighter in color. They were a little too dark and I found them distracting.
+- Changed the guides colors to also be a little lighter in favor of them not being so distracting while remaining effective.
+
 ## [0.3.0]
 ### Changed
 - Fixed issue with the error background being too dark. You would notice this when hitting shift-F8 to scroll through errrors.
