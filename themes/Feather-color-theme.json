@@ -185,6 +185,7 @@
 		"activityBarBadge.background": "#FF7B2E",
     "activityBarBadge.foreground": "#F8FAFD",
     "badge.background": "#FF7B2E",
+		"badge.foreground": "#F8FAFD",
     "button.background": "#FF7B2E",
 		"button.foreground": "#FFFFFF",
     "debugToolBar.background": "#EEEEEE",
